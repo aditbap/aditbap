@@ -5,7 +5,7 @@ I am junior Front End developer.
 --------------------------
 
 *   🌍  I'm based in Jakarta, Indonesia
-*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://stefantopalovicdev.vercel.app/'>Portfolio</a>
+*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='google.com'>Portfolio</a>
 *   🧠  Currently learning Js
 *   🤝  I'm open to collaborating on interesting projects as a developer
 
