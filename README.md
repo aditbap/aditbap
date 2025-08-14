@@ -5,7 +5,7 @@ I am Computer Science Student
 --------------------------
 
 *   🌍  I'm based in Jakarta, Indonesia
-*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='aditbap.me'>Portfolio</a>
+*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://www.aditbap.me'>Portfolio</a>
 *   🧠  Currently focused on ai
 
 ### Socials
